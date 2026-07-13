@@ -176,8 +176,6 @@ gtkwave dump.vcd
 
 ## Future Improvements
 
-- Complete RV32I instruction support
-- RV32M extension
 - Multi-issue (Superscalar) execution
 - Instruction and Data Cache
 - Return Address Stack (RAS)
